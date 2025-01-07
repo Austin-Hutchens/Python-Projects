@@ -1,4 +1,4 @@
-#Easy-to-Alter Italian Restaurant Menu
+Easy-to-Alter Italian Restaurant Menu
 
 Overview
 
@@ -6,7 +6,7 @@ This project showcases a simplified, object-oriented system for managing restaur
 
 Features
 
-Menu Management:
+Menu Management
 
 Create and manage menus with specific items, prices, and availability times.
 
@@ -14,13 +14,13 @@ Calculate the total bill for purchased items using the calculate_bill method.
 
 Display menu details, including name and availability, with a custom string representation.
 
-Franchise Management:
+Franchise Management
 
 Represent franchises with unique addresses and associated menus.
 
 Determine available menus based on a specific time using the available_menus method.
 
-Business Representation:
+Business Representation
 
 Organize franchises under a single business entity.
 
@@ -103,4 +103,6 @@ Organize and manage data using methods and attributes.
 Apply logic to solve practical problems in a structured way.
 
 Feel free to modify and expand this project to suit your needs!
+
+
 
