@@ -89,10 +89,10 @@ new_installment = Franchise(
 
 noon = flagship_store.available_menus('12:00')
 
-# Print the available menus at 12:00
 print("Menus available at 12:00:")
 for menu in noon:
     print(menu)
+
 # Print out the available menus at noon
 
 evening = flagship_store.available_menus('17:00')
