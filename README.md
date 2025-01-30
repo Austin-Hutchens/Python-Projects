@@ -48,7 +48,7 @@ Technologies used:
 ## Contact Me
 Feel free to reach out if you have any questions or feedback:
 - Email: austinjhutchens@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- LinkedIn: https://www.linkedin.com/in/austin-hutchens-261392237/
 
 Thanks for checking out my work!
 
